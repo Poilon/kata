@@ -1,0 +1,6 @@
+def fizzbuzz
+
+end
+
+
+fizzbuzz
